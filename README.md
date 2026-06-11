@@ -2,7 +2,7 @@
 A collection of my cyber security projects I have done
 
 
-## Phishing project:
+## Phishing project
 
 Summary: This was a group-project about phishing, where we were tasked to create a Phishing Awareness Workshop. My responsibility was to create a Gophish-Phishing-Campaign and to create a convincing email and landing page.
 
@@ -102,7 +102,7 @@ Tools: Splunk
 ### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Project%20-%20Security%20Monitoring%20-%20Boss%20of%20the%20SOC%20-%20gregor.pdf)
 
 
-## Web exploitation and Cryptography
+## Chef's Corner - Web exploitation and Cryptography
 
 Summary: In this project I extracted sensitive information from a vulnerable website, using web exploitation, code review and cryptography.
 
@@ -113,7 +113,7 @@ Tools: BurpSuite, Cyberchef
 ### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Project%20Cryptography%20-%20Chef's%20Corner_gregor.pdf)
 
 
-## Reconnaissance and Enumeration
+## Reconnaissance and Enumeration project
 
 Summary: The goal of the first part was to find as many viable subdomains from given domains only with passive reconnaissance. I automated the finding and validation with python. The second part of the project was to find a specific subdomain of a given domain and perform an active in-depth reconnaissance against the host and point out security issues.
 
