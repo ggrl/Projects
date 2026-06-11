@@ -22,28 +22,29 @@ Skills: Python, AppSec, Network protocols, Code Review, Command Injection
 
 Tools: Kali, VS Studio 
 
-### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Module%201%20Final%20Project%20-%20Second%20Thoughts%20-%20gregor.pdf)
+### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Module%201%20Final%20Project%20-%20Second%20Thoughts%20-%20gregor.pdf)
 
 
-## 
+## Windows remote control and data exfiltration with DNS-Mimicry
 
-Summary: 
+Summary: A virtual windows machine sits in a heavily restricted network. The goal was to gain remote control, deliver files and exfiltrate data via DNS-Mimicry.
 
-Skills: 
+Skills: Powershell, Python, RCE, DNS-Mimicry Data Exfiltration 
 
-Tools: 
+Tools: VS Code, VMware
 
-### [Project Documentation]()
+### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/NW%20Project%203%20-%20Agent%20007%20documentation.pdf)
 
-## 
+## Game of Active Directory
 
-Summary: 
+Summary: In this group-project we solved the Game of Active Directory, which is a vulnerable Active Directory Environment. The goal was to get full Domain Controller access.
+Additionally the attack was monitored with Wazuh and the system was hardened .
 
-Skills: 
+Skills: Reconnaissance, Active Directory, Kerberos, LDAP, Reverse Shell  
 
-Tools: 
+Tools: nmap, Impacket, mimikatz, evil-winrm, freerdp, Wazuh
 
-### [Project Documentation]()
+### [Project Documentation](https://app.notion.com/p/Week-11-GOAD-1-Full-Report-2fbbd64a2b60800bb780e0fbdf5f0cf8)
 
 ## 
 
