@@ -13,7 +13,6 @@ Tools: Gophish, VS Studio
 ### [Project Documentation](https://app.notion.com/p/B-MW-Aware-Security-Awareness-Workshop-Gophish-PoC-2b97df71c121808c8266dd451657f2e4)
 
 
-
 ## Second Thoughts - Vulnerable Application
 
 Summary: A potentially vulnerable application was deployed behind a strict firewall. Only inbound UDP traffic was allowed. The goal was to check the application for vulnerabilities and exploit them.
@@ -31,9 +30,10 @@ Summary: A virtual windows machine sits in a heavily restricted network. The goa
 
 Skills: Powershell, Python, RCE, DNS-Mimicry Data Exfiltration 
 
-Tools: VS Code, VMware
+Tools: VS Code, VMware, Kali
 
 ### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/NW%20Project%203%20-%20Agent%20007%20documentation.pdf)
+
 
 ## Game of Active Directory
 
@@ -46,85 +46,94 @@ Tools: nmap, Impacket, mimikatz, evil-winrm, freerdp, Wazuh
 
 ### [Project Documentation](https://app.notion.com/p/Week-11-GOAD-1-Full-Report-2fbbd64a2b60800bb780e0fbdf5f0cf8)
 
-## 
 
-Summary: 
+## Process-monitoring tool in Python
 
-Skills: 
+Summary: In this project I developed a simple Process Monitor in Python.
 
-Tools: 
+Skills: Python, tkinter, VirusTotal-API
 
-### [Project Documentation]()
+Tools: VS Studio, VirusTotal
 
-## 
+### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/OS%20Project%201%20-%20Mallware%20Cop%20documentation.pdf)
 
-Summary: 
 
-Skills: 
+## GRC security audit on a Kali Linux machine
 
-Tools: 
+Summary: In this project I performed a security audit on a Kali Linux VM. The findings were reviewed against the CIS Debian Linux Benchmark and mitigated.
 
-### [Project Documentation]()
+Skills: GRC, Frameworks, Security Benchmarks, Security Audits
 
-## 
+Tools: Kali, Lynis 
 
-Summary: 
+### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Project%20-%20GRC%20-%20Protect%20the%20Attacker%20-%20gregor.pdf)
 
-Skills: 
 
-Tools: 
+## Application deployment and Network Segmentation in Azure
 
-### [Project Documentation]()
+Summary: In this project I deployed a publicly accessable application in Microsoft Azure together with a PostgreSQL Database and network segmentation.
 
-## 
+Skills: Cloud, Microsoft Azure, PostgrSQL, Cloud Networking, Network Segmentation
 
-Summary: 
+Tools: Azure CLI
 
-Skills: 
+### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Project%20-%20Learning%20Steps%20Origins%20-%20gregor.pdf)
 
-Tools: 
 
-### [Project Documentation]()
+## DevOp CI/CD application deployment in Azure
 
-## 
+Summary: In this project I deployed a web application with a database in Microsoft Azure using DevOp tools, containerization, Kubernetes orchestration and full CI/CD automation.
 
-Summary: 
+Skills: Cloud, DevOps, DevSecOps, Terraform, Kubernetes, GitHub Actions
 
-Skills: 
+Tools: Azure CLI, Docker, Kubernetes, Terraform
 
-Tools: 
+### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Project%20-%20LearningSteps%20Evolution.pdf)
 
-### [Project Documentation]()
 
-## 
+## Splunk Log-Analysis
 
-Summary: 
+Summary: In this project I investigated a ransomware with the help of splunk.
 
-Skills: 
+Skills: SOC, Monitoring, digital forensics
 
-Tools: 
+Tools: Splunk
 
-### [Project Documentation]()
+### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Project%20-%20Security%20Monitoring%20-%20Boss%20of%20the%20SOC%20-%20gregor.pdf)
 
-## 
 
-Summary: 
+## Web exploitation and Cryptography
 
-Skills: 
+Summary: In this project I extracted sensitive information from a vulnerable website, using web exploitation, code review and cryptography.
 
-Tools: 
+Skills: Web hacking, AppSec, Cryptography, Enumeration
 
-### [Project Documentation]()
+Tools: BurpSuite, Cyberchef
 
-## 
+### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Project%20Cryptography%20-%20Chef's%20Corner_gregor.pdf)
 
-Summary: 
 
-Skills: 
+## Reconnaissance and Enumeration
 
-Tools: 
+Summary: The goal of the first part was to find as many viable subdomains from given domains only with passive reconnaissance. I automated the finding and validation with python. The second part of the project was to find a specific subdomain of a given domain and perform an active in-depth reconnaissance against the host and point out security issues.
 
-### [Project Documentation]()
+Skills: Active and Passive Reconnaissance, Enumeration, DNS
+
+Tools: Python, theHarvester, VirusTotal, nmap
+
+### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Project%20R%26E%20-%20Surface%20Tension%20%20documentation.pdf)
+
+
+## Vulnix - Exploitation of vulnerable Linux machine
+
+Summary: In this project I hosted and solved the Vulnix CTF, which is a vulnerable Linux machine. I was able to get initial access, escalate privileges and retrieve the flag. After that I mitigated the vulnerabilities I exploited.
+
+Skills: Port Scanning, Enumeration, Initial Access, Priviledge Escalation,
+
+Tools: Kali, nmap, Hydra
+
+### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Project%20System%20Vulnerability%20%26%20Exploitation%20-%20Think%20Inside%20the%20Box_gregor.pdf)
+
 
 ## 
 
