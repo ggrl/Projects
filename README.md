@@ -1,12 +1,12 @@
 # Projects
-A collection of my cyber security projects I have done
+A collection of the cyber security projects I have done
 
 
 ## Entra ID security posture analyzer
 
 Summary: In this project I implemented a security posture analyzer for Entra ID. For that I hosted an Azure OpenAI service and wrote a python script which collects data from a second tenant through the Graph API and feeds it to the AI, which creates a report of findings and security recommidations. This included handling secrets like API-keys in a secure manner.
 
-Skills: Python, Microsoft Azure, AI 
+Skills: Python, Microsoft Azure, Entra ID, AI 
 
 Tools: GraphAPI, Azure OpenAI
 
