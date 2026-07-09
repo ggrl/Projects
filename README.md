@@ -13,6 +13,29 @@ Tools: GraphAPI, Azure OpenAI
 ### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Project%20-%20Entra%20ID%20security%20posture%20analyzer.pdf)
 
 
+
+## Application deployment and Network Segmentation in Azure
+
+Summary: In this project I deployed a publicly accessable application in Microsoft Azure together with a PostgreSQL Database and network segmentation.
+
+Skills: Cloud, Microsoft Azure, PostgrSQL, Cloud Networking, Network Segmentation
+
+Tools: Azure CLI
+
+### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Project%20-%20LearningSteps-2-tier%20Azure%20Deployment.pdf)
+
+
+## DevOp CI/CD application deployment in Azure
+
+Summary: In this project I deployed a web application with a database in Microsoft Azure using DevOp tools, containerization, Kubernetes orchestration and full CI/CD automation.
+
+Skills: Cloud, DevOps, DevSecOps, Terraform, Kubernetes, GitHub Actions
+
+Tools: Azure CLI, Docker, Kubernetes, Terraform
+
+### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Project%20-%20LearningSteps%20Evolution.pdf)
+
+
 ## Phishing project
 
 Summary: This was a group-project about phishing, where we were tasked to create a Phishing Awareness Workshop. My responsibility was to create a Gophish-Phishing-Campaign and to create a convincing email and landing page.
@@ -78,28 +101,6 @@ Skills: GRC, Frameworks, Security Benchmarks, Security Audits
 Tools: Kali, Lynis 
 
 ### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Project%20-%20GRC%20-%20Protect%20the%20Attacker%20-%20gregor.pdf)
-
-
-## Application deployment and Network Segmentation in Azure
-
-Summary: In this project I deployed a publicly accessable application in Microsoft Azure together with a PostgreSQL Database and network segmentation.
-
-Skills: Cloud, Microsoft Azure, PostgrSQL, Cloud Networking, Network Segmentation
-
-Tools: Azure CLI
-
-### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Project%20-%20Learning%20Steps%20Origins%20-%20gregor.pdf)
-
-
-## DevOp CI/CD application deployment in Azure
-
-Summary: In this project I deployed a web application with a database in Microsoft Azure using DevOp tools, containerization, Kubernetes orchestration and full CI/CD automation.
-
-Skills: Cloud, DevOps, DevSecOps, Terraform, Kubernetes, GitHub Actions
-
-Tools: Azure CLI, Docker, Kubernetes, Terraform
-
-### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Project%20-%20LearningSteps%20Evolution.pdf)
 
 
 ## Splunk Log-Analysis
