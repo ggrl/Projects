@@ -93,7 +93,7 @@ Tools: Azure CLI, Docker, Kubernetes, Terraform
 
 ## Splunk Log-Analysis
 
-Summary: In this project I investigated a ransomware with the help of splunk.
+Summary: In this project I investigated a ransomware attack with the help of splunk.
 
 Skills: SOC, Monitoring, digital forensics
 
