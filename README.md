@@ -83,7 +83,7 @@ Tools: nmap, Impacket, mimikatz, evil-winrm, freerdp, Wazuh
 
 ## Process-monitoring tool in Python
 
-Summary: In this project I developed a simple Process Monitor in Python.
+Summary: In this project I developed a simple Process Monitor in Python, with GUI, scanning for suspicious processes and a hashbased whitelist.
 
 Skills: Python, tkinter, VirusTotal-API
 
