@@ -135,12 +135,12 @@ Tools: Kali, nmap, Hydra
 ### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Project%20System%20Vulnerability%20%26%20Exploitation%20-%20Think%20Inside%20the%20Box_gregor.pdf)
 
 
-## 
+## Web Hacking - OWASP Fresh Juice Shop CTF
 
-Summary: 
+Summary: This project was about finding and exploiting as many vulnerabilities in OWASP's Fresh Juice Shop CTF as we can in a given time period. Our group was able to find 29 vulnerabilities in about 4 hours.
 
-Skills: 
+Skills: Web Application Hacking, SQL Injection, OSINT
 
-Tools: 
+Tools: BurpSuite, Docker
 
-### [Project Documentation]()
+### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/Web%20Hacking%20-%20Fresh%20Juice%20Documentation.pdf)
