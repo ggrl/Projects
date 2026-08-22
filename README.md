@@ -1,6 +1,16 @@
 # Projects
 A collection of the cyber security projects I have done
 
+## LLMantis - A penetration and compliance test for AI chatbots
+
+Summary: In this project we build a product which runs a library of documented attacks against a chatbot. It has a calibrated AI judge model, which rule on every answer. Together with a Art. 50(1) AI Act-compliance check, this app runs on a webapp. The project included development of a front- and backend, a brand, actual deployment and government.
+
+Skills: Python, App-Development, Web-Development, AI, 
+
+Tools: Claude Code, Azure Foundry, Docker
+
+### [Project Documentation](https://github.com/VladvonTranssylvanien/LLMantis/blob/main/README.md)
+
 
 ## Entra ID security posture analyzer
 
