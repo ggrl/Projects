@@ -9,7 +9,7 @@ Skills: Python, App-Development, Web-Development, AI,
 
 Tools: Claude Code, Azure Foundry, Docker
 
-### [Project Documentation](https://github.com/ggrl/Projects/Documentations/LLMantis/documentation.md)
+### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/LLMantis/Documentation.md)
 
 
 ## Entra ID security posture analyzer
