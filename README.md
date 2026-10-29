@@ -1,6 +1,7 @@
 # Projects
 A collection of the cyber security projects I have done
 
+
 ## LLMantis - A penetration and compliance test for AI chatbots
 
 Summary: In this project we build a product which runs a library of documented attacks against a chatbot. It has a calibrated AI judge model, which rule on every answer. Together with a Art. 50(1) AI Act-compliance check, this app runs on a webapp. The project included development of a front- and backend, a brand, actual deployment and government.
@@ -11,6 +12,15 @@ Tools: Claude Code, Azure Foundry, Docker
 
 ### [Project Documentation](https://github.com/ggrl/Projects/blob/main/Documentations/LLMantis/Documentation.md)
 
+## kalendhair - A production ready appointment board for hairsalons
+
+Summary: In this project I developed a single-day appointment board for a hair-salon as a hosted web-app. It covered the whole software-development cycle, from planning over developing to deploying. 
+
+Skills: Agentic coding, App-Development, Deployment
+
+Tools: Claude Code, Caddy, Docker
+
+### [Project Documentation](https://github.com/ggrl/kalendhair/README.md)
 
 ## Entra ID security posture analyzer
 
