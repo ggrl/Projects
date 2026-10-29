@@ -20,7 +20,7 @@ Skills: Agentic coding, App-Development, Deployment
 
 Tools: Claude Code, Caddy, Docker
 
-### [Project Documentation](https://github.com/ggrl/kalendhair/README.md)
+### [Project Documentation](https://github.com/ggrl/kalendhair/blob/main/README.md)
 
 ## Entra ID security posture analyzer
 
